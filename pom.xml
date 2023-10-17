@@ -1,0 +1,17 @@
+<project> 
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ATE-Phase-Junit</groupId>
+  <artifactId>ATE-Phase-Junit</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+	  <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.9.3</version>
+    <scope>test</scope>
+</dependency>
+
+
+  </dependencies>
+</project>
